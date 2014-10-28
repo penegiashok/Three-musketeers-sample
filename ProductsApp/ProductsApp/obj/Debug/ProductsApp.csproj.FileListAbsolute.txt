@@ -1,0 +1,4 @@
+C:\Users\Ram\Documents\GitHub\Three-musketeers-sample\ProductsApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\Ram\Documents\GitHub\Three-musketeers-sample\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\Ram\Documents\GitHub\Three-musketeers-sample\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\Ram\Documents\GitHub\Three-musketeers-sample\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
